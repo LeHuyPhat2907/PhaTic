@@ -66,5 +66,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>PhaTic cần quyền truy cập thư viện ảnh để bạn tải lên bài viết và cập nhật hồ sơ.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>PhaTic cần quyền truy cập camera để bạn chụp ảnh đăng bài trực tiếp.</string>
 </dict>
 </plist>
